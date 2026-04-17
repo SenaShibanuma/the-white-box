@@ -1,0 +1,5 @@
+llama-cpp-python
+streamlit
+plotly
+pandas
+python-dotenv
